@@ -1,0 +1,70 @@
+/* #MI{
+    background-color: red;
+    width: 300px;
+    display: inline-block;
+}
+
+#CSK{
+    background-color: yellow;
+    width: 300px;
+    display: inline;
+}
+#RCP{
+    background-color: blue;
+    width: 300px;
+    display: block;
+}
+body{
+    display: flex;
+} */
+
+
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+h1{
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: hotpink;
+    padding: 0px 20px;
+    margin-top: 20px;
+}
+#Right{
+    display: flex;
+    gap: 20px;
+
+}
+
+#Left{
+    display: flex;
+    gap: 20px;
+}
+
+
+#center{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+
+a{
+    text-decoration: none;
+    color: brown;
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+}
